@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://i.imgur.com/your_custom_banner_image_link.png](https://www.facebook.com/photo/?fbid=1180173746934112&set=a.104136327871198)"
+    <img src="images/signature.png"
         alt="Mulenga Sampa - Software Developer from Zambia" width="100%">
 </h1>
 
