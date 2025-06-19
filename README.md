@@ -2,33 +2,23 @@
     <img src="images/signature.png"
         alt="Mulenga Sampa - Software Developer from Zambia" width="100%">
 </h1>
-
+<h1>ABOUT ME</h1>
 <p align="left">
-    Hi 👋, I'm Mulenga Sampa, a passionate Software developer based in Zambia.
-    I love building engaging user experiences and bringing ideas to life through code.
-    My focus is on creating clean, efficient, and visually appealing web applications.
+    Hi there! 👋 I'm Mulenga Sampa — your friendly neighborhood code artisan 🧑‍💻✨, based in the heart of Zambia 🇿🇲.
 </p>
 
-<h3 align="center">Connect with me around the web 🌐</h3>
-<p align="center">
-    <a href="https://www.facebook.com/umulumendo" target="_blank" rel="noopener noreferrer"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="Mulenga Sampa on Facebook" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/web.dev.ms/" target="_blank" rel="noopener noreferrer"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="Mulenga Sampa on Instagram" height="30" width="40" /></a>
-    <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank" rel="noopener noreferrer"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
-            alt="Mulenga Sampa on LinkedIn" height="30" width="40" /></a>
-    <a href="YOUR_TWITTER_PROFILE_URL" target="_blank" rel="noopener noreferrer"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="Mulenga Sampa on Twitter" height="30" width="40" /></a>
-    <a href="YOUR_PERSONAL_WEBSITE_URL" target="_blank" rel="noopener noreferrer"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg"
-            alt="Mulenga Sampa's Website" height="30" width="40" /></a>
+<p>
+    For the past 2 incredible years, I’ve been riding the thrilling rollercoaster that is software development — building, breaking (intentionally, of course 😅), and bringing bold ideas to life through lines of logic and a dash of imagination.
 </p>
-
-<h3 align="center">My Development Toolkit 🛠️</h3>
+<h2>🧠 What drives me?</h2>
+<p>
+    I’m endlessly curious about how things work and even more excited about making them work beautifully. Whether it’s crafting a seamless login flow, animating a button that sparks joy, or designing a dashboard that actually makes data feel friendly — I live for those “aha!” moments in the user journey.
+</p>
+<h2>🎨 I design with clarity. I code with purpose.</h2>
+<p>
+    My focus is on building clean, efficient, and visually captivating web applications that feel just right — the kind of digital experiences that don’t just function, but feel good to use. Think pixel-perfect meets performance-first.
+</p>
+<h2>🛠️ What’s in my toolkit?</h2>
 <p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
@@ -119,16 +109,32 @@
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
             height="40" />
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a>
+            alt="typescript" width="40" height="40" />
+    </a>
 </p>
 
+<h3 align="center">Connect with me around the web 🌐</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mulengasampa3&show_icons=true&theme=cobalt&title_color=9129ae&text_color=ffffff&hide_border=true&locale=en&layout=compact"
-        alt="Mulenga Sampa Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mulengasampa3&show_icons=true&locale=en&theme=dark"
-        alt="Mulenga Sampa GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulengasampa3&theme=dark"
-        alt="Mulenga Sampa GitHub Streak" />
+    <a href="https://www.facebook.com/umulumendo" target="_blank" rel="noopener noreferrer"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="Mulenga Sampa on Facebook" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/web.dev.ms/" target="_blank" rel="noopener noreferrer"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="Mulenga Sampa on Instagram" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/mulenga-sampa-271365221/" target="_blank" rel="noopener noreferrer"><img align="center"
+            src="images/linkedIn.svg"
+            alt="Mulenga Sampa on LinkedIn" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mulengasampa3&show_icons=true&theme=cobalt&title_color=9129ae&text_color=ffffff&hide_border=true&locale=en&layout=compact"
+       alt="Mulenga Sampa Top Languages" style="width: 32%; float: left;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mulengasampa3&show_icons=true&locale=en&theme=dark"
+       alt="Mulenga Sampa GitHub Stats" style="width: 32%; float: left;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulengasampa3&theme=dark"
+       alt="Mulenga Sampa GitHub Streak" style="width: 32%; float: left;" />
+</div>
+
