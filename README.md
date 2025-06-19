@@ -115,8 +115,12 @@
             alt="typescript" width="40" height="40" />
     </a>
 </p>
+<h2>proudly Zambian!!! <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
+            src="images/zmmap.svg"
+            height="30" /></a></h2>
+<p>Though my roots are here, my code travels far. I believe software knows no borders — just solutions waiting to happen.</p>
 
-<h3 align="center">Connect with me around the web 🌐</h3>
+<h2 align="center">Connect with me around the web 🌐</h2>
 <p align="center">
     <a href="https://www.facebook.com/umulumendo" target="_blank" rel="noopener noreferrer"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
