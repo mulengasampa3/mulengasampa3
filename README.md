@@ -75,7 +75,7 @@
 
 <h2 align="center"> Proudly Zambian</h2>
 <div width="100%" align="center">
-    <img src="images/zm.png" alt="Zambia Map" height="400" align="center"/>
+    <img src="images/zm.png" alt="Zambia Map" height="300" align="center"/>
 </div>
 <p align="center">
     Though my roots are here, my code travels far. I believe software knows no borders — just solutions waiting to
